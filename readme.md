@@ -14,6 +14,6 @@ I don't know how many of you knew this, but I certainly didn't and it can come i
 
 If you add the pulseaudio-bluetooth package, then open /etc/pulse/system.pa and add the following two lines:
 
-`load-module module-bluetooth-policy`
-```load-module module-bluetooth-discover```
+`load-module module-bluetooth-policy`<br/>
+`load-module module-bluetooth-discover`<br/>
 then all you have to do is pair your phone to your computer. Then, when you play audio from your phone, it automatically plays on your computer as long as they're connected via bluetooth. It also seems to route call audio through your computer.
