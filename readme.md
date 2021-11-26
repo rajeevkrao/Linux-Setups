@@ -15,12 +15,16 @@ PulseAudio Bluetooth
 -----
 <h3>Pair Phone through bluetooth and listen its audio in linux</h3>
 <h4>Packages to be installed</h4>
+
 `sudo apt install bluez`
 <h4>Enable Bluetooth Service</h4>
+
 `sudo systemctl enable bluetooth`
 <h4>Start Bluetooth Service</h4>
+
 `sudo systemctl start bluetooth`
 <h4>Other Packages required</h4>
+
 `sudo apt install pulseaudio pulseaudio-utils pavucontrol pulseaudio-module-bluetooth`
 
 
