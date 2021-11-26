@@ -8,5 +8,5 @@ Laptop - Screen Name
 
 <hr/>
 PulseAudio Bluetooth - Pair Phone through bluetooth and listen its audio in linux
-====
+=================================
 
