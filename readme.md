@@ -5,7 +5,7 @@ Using Barrier as Startup with cli<br/>
 
 Laptop - Screen Name
 192.168.0.106 - Main Conputer(Server) Local IP Address
-
+====
 <hr/>
 PulseAudio Bluetooth
 -----
