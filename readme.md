@@ -37,4 +37,4 @@ If you add the pulseaudio-bluetooth package, then open `/etc/pulse/system.pa` or
 
 `sudo systemctl restart bluetooth`
 then all you have to do is pair your phone to your computer. Then, when you play audio from your phone, it automatically plays on your computer as long as they're connected via bluetooth. It also seems to route call audio through your computer.<br/>
-[Detailed Article](https://ostechnix.com/turn-your-linux-pc-into-bluetooth-speakers-for-your-phone/)
+<a href="https://ostechnix.com/turn-your-linux-pc-into-bluetooth-speakers-for-your-phone/" target="_blank">Detailed Article</a>
