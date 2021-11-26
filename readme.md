@@ -8,7 +8,7 @@ Laptop - Screen Name
 
 PulseAudio Bluetooth
 -----
-<h2>Pair Phone through bluetooth and listen its audio in linux</h2>
+<h3>Pair Phone through bluetooth and listen its audio in linux</h3>
 
 I don't know how many of you knew this, but I certainly didn't and it can come in quite handy during quarantine. It all seems to be automatic on Arch, so I imagine it is on most distros.
 
