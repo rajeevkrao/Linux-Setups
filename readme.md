@@ -3,6 +3,8 @@ Basic Setups
 
 Barrier
 ----
+<h3>Sync Single Mouse and Keyboard for multiple Devices</h3>
+<h4>Client Setup</h4>
 Using Barrier as Startup with cli<br/>
 `barrier.barrierc -n Laptop -f --enable-crypto 192.168.0.106`
 
