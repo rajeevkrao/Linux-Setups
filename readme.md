@@ -7,6 +7,8 @@ Laptop - Screen Name
 192.168.0.106 - Main Conputer(Server) Local IP Address
 
 <hr/>
-PulseAudio Bluetooth - Pair Phone through bluetooth and listen its audio in linux
+PulseAudio Bluetooth
 =================================
+Pair Phone through bluetooth and listen its audio in linux
+------------------
 
