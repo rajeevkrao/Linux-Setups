@@ -1,3 +1,6 @@
+Basic Setups
+====
+
 Barrier
 ----
 Using Barrier as Startup with cli<br/>
@@ -10,9 +13,7 @@ PulseAudio Bluetooth
 -----
 <h3>Pair Phone through bluetooth and listen its audio in linux</h3>
 
-I don't know how many of you knew this, but I certainly didn't and it can come in quite handy during quarantine. It all seems to be automatic on Arch, so I imagine it is on most distros.
-
-If you add the pulseaudio-bluetooth package, then open /etc/pulse/system.pa and add the following two lines:
+If you add the pulseaudio-bluetooth package, then open `/etc/pulse/system.pa` or `~/.config/pulse/system.pa`(for logged in user only) and add the following two lines:
 
 `load-module module-bluetooth-policy`<br/>
 `load-module module-bluetooth-discover`<br/>
