@@ -7,7 +7,7 @@ Barrier
 <h4>Client Setup</h4>
 Using Barrier as Startup with cli<br/>
 
-`barrier.barrierc -n Laptop -f --enable-crypto 192.168.0.106`
+`barrierc -n Laptop -f --enable-crypto 192.168.0.106`
 
 Laptop - Screen Name <br/>
 192.168.0.106 - Main Conputer(Server) Local IP Address
