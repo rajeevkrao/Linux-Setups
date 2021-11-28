@@ -1,0 +1,6 @@
+Theme = /usr/share/moc/themes/nightly_theme
+XTermTheme = /usr/share/moc/themes/nightly_theme
+SavePlaylist = yes
+Shuffle = yes
+MusicDir = ~/songs
+OnSongChange = "/home/rajeev/nodes/songChange.js %f"
