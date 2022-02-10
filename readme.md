@@ -12,6 +12,18 @@ Using Barrier as Startup with cli<br/>
 Laptop - Screen Name <br/>
 192.168.0.106 - Main Computer(Server) Local IP Address
 
+VSFTPD
+----
+<h3>Vsftpd Configurations</h3>
+Edit configuration file at /etc/vsftpd.conf (Install Sublime First)
+
+Uncomment lines
+`local_enable=YES`
+`write_enable=YES`
+
+Add line if error - 500 OOPS: priv_sock_get_cmd
+`seccomp_sandbox=NO`
+
 PulseAudio Bluetooth
 -----
 <h3>Pair Phone through bluetooth and listen its audio in linux</h3>
