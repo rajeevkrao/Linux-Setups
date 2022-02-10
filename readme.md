@@ -18,10 +18,13 @@ VSFTPD
 Edit configuration file at /etc/vsftpd.conf (Install Sublime First)
 
 Uncomment lines
+
 `local_enable=YES`
+
 `write_enable=YES`
 
 Add line if error - 500 OOPS: priv_sock_get_cmd
+
 `seccomp_sandbox=NO`
 
 PulseAudio Bluetooth
